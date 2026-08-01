@@ -1,34 +1,81 @@
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Sayyed Yasir Ahmad" src="dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Sayyed Yasir Ahmad — AI Engineer" width="100%"/>
 </picture>
 
-## About
+</div>
 
-AI Engineer in Progress · BS Artificial Intelligence student from Haripur, KPK, Pakistan — building and shipping practical AI systems: voice assistants, RAG pipelines, and requirement-engineering automation.
+<br/>
 
-Currently learning and building with **Agentic AI · Machine Learning · Generative AI · LLMs · LangChain · RAG**.
+<table align="center" border="0">
+<tr>
+<td width="32%" align="center" valign="middle">
 
-## Featured Projects
+<img src="./lanyard.svg" alt="Sayyed Yasir Ahmad ID badge" width="280"/>
 
-**🎙️ [ai-voice-assistant-groq](https://github.com/ahmadsayyedyasir-del/ai-voice-assistant-groq)**
-AI-powered voice assistant built with Python — captures speech via microphone, processes it using Groq's LLM API, and responds with synthesized speech. Includes a Streamlit web interface.
+</td>
+<td width="68%" valign="middle">
 
-**📚 [RAG-Mini-Project](https://github.com/ahmadsayyedyasir-del/RAG-Mini-Project)**
-A Retrieval-Augmented Generation (RAG) mini-project built with Python, LangChain, Groq API, and a vector database to query PDF documents with grounded responses.
+### 🧠 Things I've Built
 
-**🧩 [ai-requirement-engineering-platform](https://github.com/ahmadsayyedyasir-del/ai-requirement-engineering-platform)**
-AI-powered platform that automatically generates SRS, BRD, User Stories, UML diagrams, sprint plans, and cost estimates from a raw business idea. Built with FastAPI, LangChain, Groq, React, and PostgreSQL.
+| 🧩 Project | 💻 Tech |
+|:---|:---|
+| [🎙️ ai-voice-assistant-groq](https://github.com/ahmadsayyedyasir-del/ai-voice-assistant-groq) | `Python` `Groq API` `Streamlit` |
+| [📚 RAG-Mini-Project](https://github.com/ahmadsayyedyasir-del/RAG-Mini-Project) | `Python` `LangChain` `Groq` `Vector DB` |
+| [🧩 ai-requirement-engineering-platform](https://github.com/ahmadsayyedyasir-del/ai-requirement-engineering-platform) | `FastAPI` `LangChain` `React` `PostgreSQL` |
 
-## Goal
+<br/>
 
-To become a skilled AI Engineer and build intelligent solutions that solve real-world problems.
+> 🤖 *"Teaching machines to think, one prompt at a time."*
 
-## Let's Connect
+</td>
+</tr>
+</table>
 
-📧 ahmadsayyedyasir@gmail.com &nbsp;&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sayyed-yasir-ahmad-a6a181374/)
+<br/>
 
----
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+<div align="center">
+
+### 📊 GitHub Stats & Graphs
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadsayyedyasir-del&show_icons=true&theme=dark&hide_border=true&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&hide_rank=true" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsayyedyasir-del&layout=compact&theme=dark&hide_border=true&bg_color=0A101F&title_color=A78BFA&text_color=CBD5E1" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ahmadsayyedyasir-del&theme=dark&hide_border=true&background=0A101F&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadsayyedyasir-del&bg_color=0A101F&color=22D3EE&line=A78BFA&point=F5F3FF&area=true&area_color=A78BFA&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmadsayyedyasir-del&theme=algolia&no-frame=true&margin-w=8&row=1" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/ahmadsayyedyasir-del/ahmadsayyedyasir-del/output/github-snake-dark.svg" alt="Contribution snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:ahmadsayyedyasir@gmail.com"><img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ahmadsayyedyasir-del"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sayyed-yasir-ahmad-a6a181374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahmadsayyedyasir-del&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⭐️ Learning, building, shipping — one prompt at a time.*
+
+</div>
