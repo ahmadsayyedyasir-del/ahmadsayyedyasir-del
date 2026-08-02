@@ -80,3 +80,39 @@
 
 </div>
 ye mera readme file ha baqi chezain na cheroon jdr pootfolio lagana ha laga loo 
+<br/>
+<hr/>
+
+<div align="center">
+
+# 🌐 My AI Engineer Portfolio
+
+### 🚀 Explore my complete AI Engineer Portfolio
+
+A modern interactive portfolio showcasing my work in **Agentic AI, RAG Systems, LLM Applications, FastAPI, LangChain, LangGraph, Machine Learning, and AI Engineering.**
+
+<br/>
+
+<a href="https://YOUR-VERCEL-LINK.vercel.app">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20LIVE%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://YOUR-VERCEL-LINK.vercel.app">
+<img src="https://img.shields.io/badge/🌍%20Open%20Portfolio-Visit%20Now-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+⭐ **Portfolio Highlights**
+
+🤖 Agentic AI Projects  
+📚 RAG Systems  
+🧠 LLM Applications  
+⚡ FastAPI APIs  
+🌲 LangChain & LangGraph  
+💻 Interactive AI Experiences  
+🎨 Modern UI/UX with Cinematic Animations
+
+</div>
